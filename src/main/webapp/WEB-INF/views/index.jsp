@@ -47,8 +47,8 @@
 
 		<div class="navbar-collapse collapse" id="navbar-main">
 			<ul class="nav navbar-nav " style="margin-top: 3px;">
-					<li><a href="#">Home</a></li>
-					<li><a href="#">Agendamento</a></li>
+					<li><a href="#">Inicio</a></li>
+					<li><a href="#">Agendamento Online</a></li>
 					<li><a href="Teste">Fale Conosco</a></li>
 			</ul>
 
@@ -74,7 +74,7 @@
 				&nbsp;&nbsp;&nbsp;
 			</div>
 			<div class="col-md-1">
-				<button id="BtnNextMonth">Proximo</button>
+				<button id="BtnNextMonth">Próximo</button>
 			</div>
 		</div>
 
