@@ -123,7 +123,7 @@
 							</select>				
 						</td>
 						<td>
-							<label>Minuto</label>
+							<label>Minutos</label>
 							<select id="startMin" class="text ui-widget-content ui-corner-all" style="margin-bottom:12px; width:95%; padding: .4em;">
 								<option value="00" SELECTED>00</option>
 								<option value="10">10</option>
